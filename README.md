@@ -1,2 +1,0 @@
-The program used in the Thirteenth Jiangsu province university physics and experimental science and technology innovation competition.
-I was the programer of the team.Finally we won the second prize.
